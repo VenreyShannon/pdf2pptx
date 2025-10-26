@@ -48,7 +48,7 @@ setup(
             'pdf2ppt=pdf2pptx.cli:main',
         ],
     },
-    keywords='pdf powerpoint pptx converter',
+    keywords='pdf powerpoint pptx converter pdf2pptx pdf-to-pptx document-converter presentation slides office cli command-line',
     project_urls={
         'Bug Reports': 'https://github.com/VenreyShannon/pdf2pptx/issues',
         'Source': 'https://github.com/VenreyShannon/pdf2pptx',

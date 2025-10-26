@@ -1,5 +1,10 @@
 # pdf2pptx
 
+[![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/VenreyShannon/pdf2pptx.svg)](https://github.com/VenreyShannon/pdf2pptx/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/VenreyShannon/pdf2pptx.svg)](https://github.com/VenreyShannon/pdf2pptx/issues)
+
 一个简单易用的命令行工具，可以将 PDF 文件转换为 PowerPoint 演示文稿（PPTX 格式，纯图片转换，保存在同pdf目录下）。
 
 ## ⚡ 快速开始
