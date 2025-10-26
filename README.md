@@ -1,6 +1,6 @@
 # pdf2pptx
 
-一个简单易用的命令行工具，可以将 PDF 文件转换为 PowerPoint 演示文稿（PPTX 格式）。
+一个简单易用的命令行工具，可以将 PDF 文件转换为 PowerPoint 演示文稿（PPTX 格式，纯图片转换，保存在同pdf目录下）。
 
 ## ⚡ 快速开始
 
