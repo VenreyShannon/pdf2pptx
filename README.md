@@ -63,6 +63,8 @@ python3 -m pipx ensurepath
 
 # 2. 重启终端，然后安装 pdf2pptx
 pipx install git+https://github.com/VenreyShannon/pdf2pptx.git
+# 或使用 SSH 协议（更稳定）
+pipx install git+ssh://git@github.com/VenreyShannon/pdf2pptx.git
 
 # 3. 使用
 pdf2ppt -f your_file.pdf
